@@ -4,7 +4,7 @@
 </HEAD>
 <BODY>
 <?
-  echo "Logics";
+  echo "Logics on Java, PHP";
 ?>
 </BODY>
 </HTML>
